@@ -13,7 +13,6 @@ An interactive web application for managing employee information. This project u
 ## Technologies Used
 - JavaScript: Used for form validation, dynamic behavior, and DOM manipulation.
 - CSS: Utilized for styling and layout, including responsive design.
-- HTML: Markup language for structuring the web page and defining form elements.
 
 ## Usage
 1. Open the file in a web browser to access the employee form.
