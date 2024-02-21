@@ -1,7 +1,7 @@
 # Employee_Form
 
 ## Description
-An interactive web application for managing employee information. This project utilizes JavaScript for form validation and dynamic behavior, while CSS is used for styling and layout.
+An interactive web application for managing employee information with the hwlp of form. This project utilizes JavaScript for form validation and dynamic behavior, while CSS is used for styling and layout.
 
 ## Features
 - Input validation: Ensure that required fields are filled out and that the data entered is in the correct format (e.g., email validation, date validation).
